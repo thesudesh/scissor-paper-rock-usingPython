@@ -9,8 +9,10 @@ This is a simple graphical implementation of the classic Rock-Paper-Scissors gam
 - Simple, intuitive GUI.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/210e2d76-42cb-4bb6-b4c4-3ecd2d71b237)<br>
+![image](https://github.com/user-attachments/assets/21cd3297-91df-4c78-a1bb-0e8e82310c46)
 
-*(Add a screenshot of your game here)*
+
 
 ## Requirements
 
@@ -22,7 +24,7 @@ This is a simple graphical implementation of the classic Rock-Paper-Scissors gam
  **Clone the repository**
 
    ```
-   git clone https://github.com/your-username/rock-paper-scissors-tkinter.git
+   git clone https://github.com/thesudesh/scissor-paper-rock-usingPython.git
    cd rock-paper-scissors-tkinter
    ```
 ## Set up a virtual environment (optional but recommended)
@@ -31,7 +33,8 @@ This is a simple graphical implementation of the classic Rock-Paper-Scissors gam
 
 ```
 python3 -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+source env/bin/activate (For Linux)
+env\Scripts\activate (For Windows)
 ```
 
 ### Run the Game:
